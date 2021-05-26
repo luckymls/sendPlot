@@ -2,8 +2,8 @@
 
 - [X] Split plot
 - [X] Merge plot
-- [ ] Send plot
-- [ ] Receive plot
+- [X] Send plot
+- [X] Receive plot
 
 # How To
 
